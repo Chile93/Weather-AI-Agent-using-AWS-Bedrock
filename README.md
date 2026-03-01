@@ -1,6 +1,7 @@
 # Weather AI Agent 🌤️🤖
 
-A Level 100, beginner-friendly workshop project that teaches **Agentic AI building blocks** using **pure Python + boto3** (no heavy agent frameworks). The agent plans, calls real tools (public weather APIs), and returns a clean forecast via **CLI** and **Streamlit**.
+A hands-on reference implementation demonstrating how to build **Agentic AI systems** using pure Python and the AWS SDK (boto3), without relying on heavy orchestration frameworks.
+The project showcases the core building blocks of autonomous AI agents—planning, tool invocation, data processing, and response synthesis—using **Amazon Bedrock** and **Claude 4.5 Sonnet by Anthropic**, delivered through both a CLI and a Streamlit web interface.
 
 > Built as part of an Agentic AI learning workshop (BeSA Cohort) to practice core agent patterns end-to-end.
 
