@@ -44,22 +44,22 @@ img src="./Web-UI.png" alt="Weather AI Agent" width="800"/>
 - Amazon Bedrock access enabled
 - Claude 4.5 Sonnet model access approved
 
----
 
 ### Install Dependencies
 
----
 
-```bash
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install boto3 streamlit requests
+
+
+`python -m venv .venv`
+`source .venv/bin/activate`  
+`# Windows: .venv\Scripts\activate`
+`pip install boto3 streamlit requests`
 
 ---
 
 #▶️ Running the CLI Agent
 
-python weather_agent_cli.py
+`python weather_agent_cli.py`
 
 Example Inputs:
 
