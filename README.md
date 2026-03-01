@@ -27,25 +27,15 @@ This repo intentionally uses **basic primitives** (functions + boto3 + HTTP) so 
 
 ---
 
-## 🗂️ Repository structure
-```text
-.
-├── weather_agent_cli.py          # Interactive command-line agent
-├── weather_agent_web.py          # Streamlit web UI (optional)
-├── requirements.txt              # Dependencies
-└── README.md
----
+
 ## Web UI
 
 img src="./Web-UI.png" alt="Weather AI Agent" width="800"/>
 
----
-
-
 
 ---
 
-## ⚙️ Environment Setup
+# ⚙️ Environment Setup
 
 ### Prerequisites
 
@@ -54,6 +44,8 @@ img src="./Web-UI.png" alt="Weather AI Agent" width="800"/>
 - Amazon Bedrock access enabled
 - Claude 4.5 Sonnet model access approved
 
+---
+
 ### Install Dependencies
 
 ```bash
@@ -61,8 +53,9 @@ python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
 pip install boto3 streamlit requests
 
+---
 
-▶️ Running the CLI Agent
+#▶️ Running the CLI Agent
 
 python weather_agent_cli.py
 
@@ -77,7 +70,10 @@ National park near Homestead in Florida
 Largest city in California
 
 
-🌐 Running the Web App
+---
+
+#🌐 Running the Web App
+
 streamlit run weather_agent_web.py
 🎯 Learning Objectives
 
@@ -93,7 +89,9 @@ Integrate Bedrock models using boto3
 
 Design autonomous reasoning pipelines
 
-🛡 Security & Cost Awareness
+---
+
+#🛡 Security & Cost Awareness
 
 No sensitive data is processed
 
@@ -103,7 +101,9 @@ Pay-per-use model invocation
 
 IAM roles and policies should follow least-privilege principles
 
-🌍 Real-World Applications
+---
+
+#🌍 Real-World Applications
 
 The architecture demonstrated here can be extended to:
 
@@ -117,11 +117,15 @@ Financial analysis agents
 
 DevOps automation agents
 
-👤 Author
+---
+
+#👤 Author
 
 Chinedu Emmanuel Agwunobi
 Aspiring Agentic AI Solutions Architect
 AWS | Bedrock | Cloud-Native AI
+
+---
 
 📜 License
 
