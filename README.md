@@ -76,7 +76,8 @@ Largest city in California
 
 🌐 Running the Web App
 
-streamlit run weather_agent_web.py
+`streamlit run weather_agent_web.py`
+
 🎯 Learning Objectives
 
 By completing this project, you will:
@@ -121,7 +122,7 @@ DevOps automation agents
 
 ---
 
-<img src="./SeattleiForcast.png" alt="Sample of Seattle Forcast" width="800"/>
+<img src="./Seattle-Forcast.png" alt="Sample of Seattle Forcast" width="800"/>
 
 ---
 
