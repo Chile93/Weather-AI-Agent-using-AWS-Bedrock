@@ -48,6 +48,8 @@ img src="./Web-UI.png" alt="Weather AI Agent" width="800"/>
 
 ### Install Dependencies
 
+---
+
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
