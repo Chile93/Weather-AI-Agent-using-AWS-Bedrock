@@ -30,7 +30,7 @@ This repo intentionally uses **basic primitives** (functions + boto3 + HTTP) so 
 
 ## Web UI
 
-img src="./Web-UI.png" alt="Weather AI Agent" width="800"/>
+<img src="./Web-UI.png" alt="Weather AI Agent" width="800"/>
 
 
 ---
@@ -57,7 +57,7 @@ img src="./Web-UI.png" alt="Weather AI Agent" width="800"/>
 
 ---
 
-#▶️ Running the CLI Agent
+▶️ Running the CLI Agent
 
 `python weather_agent_cli.py`
 
@@ -74,7 +74,7 @@ Largest city in California
 
 ---
 
-#🌐 Running the Web App
+🌐 Running the Web App
 
 streamlit run weather_agent_web.py
 🎯 Learning Objectives
@@ -93,7 +93,7 @@ Design autonomous reasoning pipelines
 
 ---
 
-#🛡 Security & Cost Awareness
+🛡 Security & Cost Awareness
 
 No sensitive data is processed
 
@@ -105,7 +105,7 @@ IAM roles and policies should follow least-privilege principles
 
 ---
 
-#🌍 Real-World Applications
+🌍 Real-World Applications
 
 The architecture demonstrated here can be extended to:
 
@@ -121,7 +121,11 @@ DevOps automation agents
 
 ---
 
-#👤 Author
+<img src="./SeattleiForcast.png" alt="Sample of Seattle Forcast" width="800"/>
+
+---
+
+👤 Author
 
 Chinedu Emmanuel Agwunobi
 Aspiring Agentic AI Solutions Architect
